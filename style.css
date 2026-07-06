@@ -40,7 +40,7 @@ header {
     justify-content: center;
     text-align: center;
     /* This loads your image and adds a 60% black tint over it so the white text pops */
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('E_Trail.jpg');
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url('pics/E_Trail.jpg');
     background-size: cover;
     background-position: center;
     border-bottom: 1px solid #222;
