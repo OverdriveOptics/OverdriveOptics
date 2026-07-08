@@ -141,3 +141,45 @@ footer p {
     font-size: 16px;
     letter-spacing: 1px;
 }
+
+/* Bio Section Styling */
+.bio-section {
+    background-color: #0d0d0d; 
+    padding: 60px 20px;
+    text-align: center;
+    color: #ffffff;
+}
+
+.bio-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.bio-content h2 {
+    font-family: 'Orbitron', sans-serif;
+    font-weight: 900;
+    letter-spacing: 3px;
+    font-size: 2rem;
+    margin-bottom: 15px;
+    color: #ffffff;
+}
+
+.bio-line {
+    width: 60px;
+    height: 4px;
+    background-color: #ff3333; 
+    margin: 0 auto 25px auto;
+}
+
+.bio-content p {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #cccccc; 
+    font-weight: 400;
+}
+
+.bio-content strong {
+    color: #ffffff;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 1px;
+}
