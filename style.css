@@ -165,6 +165,11 @@ footer p {
     color: #ffffff;
 }
 
+
+/*Special pkgs*/
+.packages-container {margin-top: 3%;
+}
+
 .bio-line {
     width: 60px;
     height: 4px;
