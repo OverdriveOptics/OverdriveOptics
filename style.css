@@ -166,10 +166,6 @@ footer p {
 }
 
 
-/*Special pkgs*/
-.packages-container {margin-top: 3%;
-}
-
 .bio-line {
     width: 60px;
     height: 4px;
@@ -198,7 +194,7 @@ footer p {
 
 .packages-container {
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 3 auto;
 }
 
 .packages-container h2 {
