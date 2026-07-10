@@ -186,6 +186,10 @@ footer p {
     letter-spacing: 1px;
 }
 
+.centered-section {
+    margin-top: 80px;
+}
+
 /* Packages Section Styling */
 .packages-section {
     padding: 60px 20px;
@@ -194,7 +198,7 @@ footer p {
 
 .packages-container {
     max-width: 1200px;
-    margin: 3 auto;
+    margin: 0 auto;
 }
 
 .packages-container h2 {
