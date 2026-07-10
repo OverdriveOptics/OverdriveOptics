@@ -47,7 +47,10 @@ header {
     border-bottom: 1px solid #222;
     padding: 20px;
 }
-
+.hero-content { 
+    padding:2rem;
+    background:white;
+}
 .hero-content h1 {
     font-size: 32px;
     letter-spacing: 2px;
